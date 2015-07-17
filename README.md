@@ -9,4 +9,4 @@ My Node Book
 
 但是你是一名初级nodejs工程师，或许你只是一名前端工程师(没有服务器编程背景)，我建议你可以看看，也许会有许多收获，当然也许哪天你忘了什么配置或者操作，你还可以来查找的`Ctrl F`是非常好的工具。
 
-如果你没有Javascript编程经验，那么你最好还是先去看看[这些]
+如果你没有Javascript编程经验，那么你最好还是先去看看[Javascript基础知识](http://www.w3school.com.cn/js/index.asp)
