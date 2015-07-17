@@ -1,3 +1,4 @@
-# First Chapter
+# 章节一
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+这一章，我们将重点学习nodejs服务器的配置、nodejs版本管理以及了解nodejs的新面貌。
+
