@@ -10,4 +10,4 @@
 
 #### Mysql
 
-mysql是世界上
+mysql是仅次于Oracle的第二大数据库软件。mysql在各大公司广泛使用。所以如果我们使用nodejs去直接操作数据库的话。那么你遇到最多的可能是mysql数据库，下面我们将来上手mysql的安装体验：
